@@ -1,7 +1,7 @@
 import View from './View';
 // import icons from '../img/icons.svg'; //Parcel 1 Syntax
 import icons from 'url:../../img/icons.svg'; //Parcel 2 Syntax
-// import { Fraction } from '../../../node_modules/fractional';
+import { Fraction } from '../../../node_modules/fractional';
 // console.log(Fraction);
 
 class recipeView extends View {
